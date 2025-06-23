@@ -1,6 +1,10 @@
+<div>
+  <img align='left' src="https://upload.wikimedia.org/wikipedia/pt/a/a2/Bayer_Leverkusen.png" width="150">
+</div>
+
 # Analytics da temporada invicta do Bayer Leverkusen na Bundesliga 23/24
 
-Testando algumas análises com dados de futebol, peguei a partida Bayer 04 Leverkusen 5x0 Werder Bremen (da temporada 23/24 invicta do Leverkusen) e decidi explorar os dados da Hudl Statsbomb pra entender um pouco melhor o que aconteceu em campo.
+Testando análises com dados de futebol, neste exemplo, peguei a partida Bayer 04 Leverkusen 5x0 Werder Bremen (da temporada 23/24 invicta do Leverkusen) e decidi explorar os dados da Hudl Statsbomb pra entender um pouco melhor o que aconteceu em campo.
 Consegui gerar algumas visualizações:
 
 ### ⚽ Heatmap de passes
