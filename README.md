@@ -51,6 +51,7 @@ O Mapa de Pressão mostra:
 - As zonas preferenciais para tentar retomar a posse.
 
 
+![](https://raw.githubusercontent.com/josehenriqueroveda/leverkusen-2324/refs/heads/main/imgs/out.png)
 
 Visualmente ficou bem claro o domínio territorial no setor centro ofensivo do campo e a intensidade ofensiva que o Leverkusen imprimiu durante a partida.
 
